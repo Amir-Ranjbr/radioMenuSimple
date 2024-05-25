@@ -21,7 +21,7 @@
 ### Links
 
 - Youtube URL: [Link](https://youtu.be/06n-BXMCbdg)
-- Live Site URL: [Link](https://github.com/Amir-Ranjbr/radioMenuSimple)
+- Live Site URL: [Link](https://amir-ranjbr.github.io/radioMenuSimple)
 
 ### Built with
 
